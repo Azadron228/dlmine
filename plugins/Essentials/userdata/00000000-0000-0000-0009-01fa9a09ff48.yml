@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.76.70.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683536254427
+  login: 1683535025019
+money: '0'
+last-account-name: .MorosePrism1765
+logoutlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 193.25034
+  y: 94.0
+  z: 1456.4086
+  yaw: -62.03196716308594
+  pitch: -4.1302947998046875
+lastlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 199.52753
+  y: 87.0
+  z: 1482.177
+  yaw: 32.28871154785156
+  pitch: -0.8834075927734375

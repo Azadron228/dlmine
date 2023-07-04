@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.108.117.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683476690642
+  login: 1683476018868
+money: '0'
+last-account-name: .Pavlo13mayn
+lastlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 298.16006
+  y: 94.17675
+  z: 1213.6385
+  yaw: 6.9211578369140625
+  pitch: 25.207565307617188
+logoutlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 170.41711
+  y: 99.0
+  z: 1452.30001
+  yaw: 170.38873291015625
+  pitch: 12.119583129882812

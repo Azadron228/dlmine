@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.10.135.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684594733585
+  login: 1684594181426
+money: '0'
+last-account-name: .Timka1272k
+lastlocation:
+  world: a50d44b2-88b2-48b7-955b-b69ff92a49c2
+  world-name: world
+  x: -109.09678
+  y: 60.0
+  z: -49.06505
+  yaw: 145.60372924804688
+  pitch: 42.195953369140625
+logoutlocation:
+  world: 6b287ceb-f3b1-436a-a189-b6751f73b629
+  world-name: world
+  x: -8.30001
+  y: 66.0
+  z: 11.4252205
+  yaw: -42.44596862792969
+  pitch: -37.82154846191406

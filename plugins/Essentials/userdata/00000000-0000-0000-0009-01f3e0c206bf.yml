@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.34.70.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686563470486
+  login: 1686563196583
+money: '0'
+last-account-name: .Azamat5300
+lastlocation:
+  world: 06f507ea-4855-4999-88b2-09230151ad2f
+  world-name: world
+  x: 274.53162
+  y: 7.0
+  z: 503.27783
+  yaw: -133.40542602539062
+  pitch: 20.581253051757812
+logoutlocation:
+  world: 06f507ea-4855-4999-88b2-09230151ad2f
+  world-name: world
+  x: 1174.4209
+  y: 90.32502
+  z: -96.78097
+  yaw: -122.36660766601562
+  pitch: -29.56939697265625

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.34.68.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683524295881
+  login: 1683524220167
+money: '0'
+last-account-name: .zxcalihan
+lastlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 211.69999
+  y: 12.0
+  z: 1452.30001
+  yaw: -106.34884643554688
+  pitch: 89.89999389648438
+logoutlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 214.85506
+  y: 87.0
+  z: 1487.3284
+  yaw: 97.02169799804688
+  pitch: 14.86407470703125

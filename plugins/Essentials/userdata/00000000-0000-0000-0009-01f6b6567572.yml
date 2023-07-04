@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.141.241.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684606727782
+  login: 1684605061726
+money: '0'
+last-account-name: .Jamanadam13
+logoutlocation:
+  world: 6b287ceb-f3b1-436a-a189-b6751f73b629
+  world-name: world
+  x: -130.61627
+  y: 107.16811
+  z: 32.966293
+  yaw: 143.4171142578125
+  pitch: 48.183624267578125
+lastlocation:
+  world: 6b287ceb-f3b1-436a-a189-b6751f73b629
+  world-name: world
+  x: -301.83524
+  y: 73.0
+  z: -2221.028
+  yaw: 129.7774658203125
+  pitch: 30.403610229492188

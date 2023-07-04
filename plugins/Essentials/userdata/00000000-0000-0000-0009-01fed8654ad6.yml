@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.190.147.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683914492154
+  login: 1683914445348
+money: '0'
+last-account-name: .DaringTea123553
+logoutlocation:
+  world: a50d44b2-88b2-48b7-955b-b69ff92a49c2
+  world-name: world
+  x: 194.23854
+  y: 63.0
+  z: 135.32593
+  yaw: 94.53536987304688
+  pitch: -3.9025726318359375

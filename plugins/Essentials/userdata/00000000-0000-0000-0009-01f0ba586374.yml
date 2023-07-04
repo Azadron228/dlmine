@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.122.0.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684809605331
+  login: 1684809548176
+money: '0'
+last-account-name: .LoudCheese79046
+lastlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 106.09661
+  y: -35.97558
+  z: -50.85489
+  yaw: -25.2008056640625
+  pitch: 26.284072875976562
+logoutlocation:
+  world: 6b287ceb-f3b1-436a-a189-b6751f73b629
+  world-name: world
+  x: 31.147377
+  y: 71.0
+  z: 32.58914
+  yaw: -61.67847442626953
+  pitch: 2.319488525390625

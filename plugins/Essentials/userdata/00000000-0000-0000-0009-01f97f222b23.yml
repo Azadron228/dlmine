@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.165.47.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686073975363
+  login: 1686073942619
+money: '0'
+last-account-name: .SparedPond00087
+lastlocation:
+  world: 6b287ceb-f3b1-436a-a189-b6751f73b629
+  world-name: world
+  x: -9999.663
+  y: 79.0
+  z: 112.668335
+  yaw: -94.71696472167969
+  pitch: 11.825668334960938
+logoutlocation:
+  world: 415653b1-75d1-43a3-ae62-fae4a1383bee
+  world-name: world
+  x: -10.5
+  y: 65.0
+  z: 17.5
+  yaw: -1.52587890625E-5
+  pitch: 0.0

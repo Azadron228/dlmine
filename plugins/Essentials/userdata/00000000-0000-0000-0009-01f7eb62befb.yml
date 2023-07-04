@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.42.62.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683736107254
+  login: 1683734462449
+money: '0'
+last-account-name: .LavishSalt39892
+lastlocation:
+  world: a50d44b2-88b2-48b7-955b-b69ff92a49c2
+  world-name: world
+  x: 53.3911
+  y: 72.0
+  z: 28.746431
+  yaw: 106.49435424804688
+  pitch: 3.42578125
+logoutlocation:
+  world: a50d44b2-88b2-48b7-955b-b69ff92a49c2
+  world-name: world
+  x: 171.57228
+  y: 71.0
+  z: -970.4876
+  yaw: 49.03662109375
+  pitch: 89.89999389648438

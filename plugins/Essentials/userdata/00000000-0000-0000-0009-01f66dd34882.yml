@@ -1,0 +1,38 @@
+teleportenabled: false
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.88.20.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683523907312
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686732775236
+  login: 1686732668939
+money: '0'
+last-account-name: .Slaim4ik76
+logoutlocation:
+  world: 06f507ea-4855-4999-88b2-09230151ad2f
+  world-name: world
+  x: 25.864485
+  y: 83.04034
+  z: -54.270237
+  yaw: 169.860595703125
+  pitch: 36.917938232421875
+lastlocation:
+  world: 06f507ea-4855-4999-88b2-09230151ad2f
+  world-name: world
+  x: -119.28555
+  y: 72.0
+  z: 13.247513
+  yaw: -166.89572143554688
+  pitch: 27.664031982421875

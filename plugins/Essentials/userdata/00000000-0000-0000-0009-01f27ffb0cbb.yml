@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.132.236.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683954665504
+  login: 1683953656048
+money: '0'
+last-account-name: .Keks0111tort
+logoutlocation:
+  world: a50d44b2-88b2-48b7-955b-b69ff92a49c2
+  world-name: world
+  x: 182.72511
+  y: 70.0
+  z: -998.8762
+  yaw: -77.81497955322266
+  pitch: 21.943405151367188
+lastlocation:
+  world: a50d44b2-88b2-48b7-955b-b69ff92a49c2
+  world-name: world
+  x: 227.30001
+  y: 19.0
+  z: -960.69999
+  yaw: -165.09005737304688
+  pitch: 40.36705017089844

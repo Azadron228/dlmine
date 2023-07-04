@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.90.142.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684502485331
+  login: 1684502481336
+money: '0'
+last-account-name: .Birdman0014353
+logoutlocation:
+  world: 6b287ceb-f3b1-436a-a189-b6751f73b629
+  world-name: world
+  x: -48.85316
+  y: 73.92294
+  z: 21.744144
+  yaw: 81.8515625
+  pitch: 25.195327758789062
+past-usernames:
+- .FeedChart406865

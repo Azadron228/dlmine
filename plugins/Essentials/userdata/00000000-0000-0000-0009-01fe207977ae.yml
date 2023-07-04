@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.47.248.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683497411723
+  login: 1683497300817
+money: '0'
+last-account-name: .old33bodya
+logoutlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 206.96709
+  y: 87.0
+  z: 1485.1163
+  yaw: -99.94022369384766
+  pitch: 2.78851318359375
+lastlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 217.93396
+  y: 87.09834
+  z: 1494.30001
+  yaw: -14.970916748046875
+  pitch: 19.010147094726562

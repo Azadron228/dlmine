@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.42.246.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686595209584
+  login: 1686595090726
+money: '0'
+last-account-name: .WoodyOx3256
+lastlocation:
+  world: 415653b1-75d1-43a3-ae62-fae4a1383bee
+  world-name: world
+  x: 754.2009
+  y: 125.81758
+  z: 946.6958
+  yaw: -155.80758666992188
+  pitch: 81.23431396484375
+logoutlocation:
+  world: 06f507ea-4855-4999-88b2-09230151ad2f
+  world-name: world
+  x: 63.922173
+  y: 67.0
+  z: 125.978424
+  yaw: -121.42329406738281
+  pitch: 16.145721435546875

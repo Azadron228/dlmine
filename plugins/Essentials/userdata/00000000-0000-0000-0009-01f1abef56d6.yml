@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.42.241.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683532671423
+  login: 1683532062817
+money: '0'
+last-account-name: .Mikkalo31
+lastlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 219.74146
+  y: 85.0
+  z: 1464.7656
+  yaw: 39.93894958496094
+  pitch: -5.484771728515625
+logoutlocation:
+  world: 59e56886-c121-4718-a32c-829ccded2cf6
+  world-name: world
+  x: 207.29567
+  y: 87.0
+  z: 1485.5262
+  yaw: 67.40029907226562
+  pitch: -3.0671844482421875

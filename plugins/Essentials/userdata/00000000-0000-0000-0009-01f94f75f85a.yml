@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.141.241.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685720669979
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686106670115
+  login: 1686106650665
+money: '0'
+last-account-name: .Windiizerr
+logoutlocation:
+  world: 415653b1-75d1-43a3-ae62-fae4a1383bee
+  world-name: world
+  x: 758.4202
+  y: 132.0
+  z: 834.7102
+  yaw: 47.30165100097656
+  pitch: 0.0
+lastlocation:
+  world: 415653b1-75d1-43a3-ae62-fae4a1383bee
+  world-name: world
+  x: 714.1971
+  y: 106.69167
+  z: 899.08765
+  yaw: -0.68505859375
+  pitch: 15.027389526367188
